@@ -103,12 +103,12 @@ class CartBadgeCmp {
 
 **Links:**
 
-[ANGULAR CHANGE DETECTION EXPLAINED](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
-[How does Angular Change Detection Really Work ?](http://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
-[Change Detection in Angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
-[Performance Optimization in Angular 2.0 article](https://eyalvardi.wordpress.com/2016/12/20/performance-optimization-in-angular-2-0/)
-[Performance Optimization in Angular 2.0 demo](http://ng-course.org/ng-course/demos/change_detection/index.html#/home)
+1. [ANGULAR CHANGE DETECTION EXPLAINED](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
+2. [How does Angular Change Detection Really Work ?](http://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+3. [Change Detection in Angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
+4. [Performance Optimization in Angular 2.0 article](https://eyalvardi.wordpress.com/2016/12/20/performance-optimization-in-angular-2-0/)
+5. [Performance Optimization in Angular 2.0 demo](http://ng-course.org/ng-course/demos/change_detection/index.html#/home)
 
 ## RxJS
 
-[Angular: Don't forget to unsubscribe()](http://brianflove.com/2016/12/11/anguar-2-unsubscribe-observables/)
+1. [Angular: Don't forget to unsubscribe()](http://brianflove.com/2016/12/11/anguar-2-unsubscribe-observables/)
